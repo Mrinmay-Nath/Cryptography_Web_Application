@@ -25,8 +25,8 @@ A **Flask-based** web application for encrypting and decrypting text using **adv
 
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+https://github.com/Mrinmay-Nath/Cryptography_Web_Application.git
+cd Cryptography_Web_Application
 ```
 
 ### 2️⃣ Install the required dependencies:
